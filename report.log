@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.11.20)  21 NOV 2023 09:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.11.20)  21 NOV 2023 11:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -558,14 +558,14 @@ Underfull \hbox (badness 10000) in paragraph at lines 377--379
  []
 
 [9] [10]
-Overfull \hbox (32.21396pt too wide) in paragraph at lines 393--394
-  \OT1/txr/m/n/12 [1] \Pro-tected ar-eas of East Afrika", https://www.sciencedi
-rect.com/science/article/pii/S2351989418304323 
+Underfull \hbox (badness 10000) in paragraph at lines 393--394
+
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 393--394
-
+Overfull \hbox (49.83878pt too wide) in paragraph at lines 395--396
+[]  \OT1/txr/m/n/12 [2] \Pro-tected ar-eas of East Afrika", https://www.science
+direct.com/science/article/pii/S2351989418304323 
  []
 
 
@@ -575,11 +575,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 395--396
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 397--398
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 399--400
 
  []
 
@@ -595,6 +590,11 @@ Underfull \hbox (badness 10000) in paragraph at lines 403--404
 
 
 Underfull \hbox (badness 10000) in paragraph at lines 405--406
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 407--408
 
  []
 
@@ -614,7 +614,7 @@ exmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/ur
 w/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.
 pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (11 pages, 345104 bytes).
+Output written on report.pdf (11 pages, 345108 bytes).
 PDF statistics:
  79 PDF objects out of 1000 (max. 8388607)
  49 compressed objects within 1 object stream
