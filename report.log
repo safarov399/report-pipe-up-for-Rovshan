@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.11.20)  21 NOV 2023 08:37
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2023.11.20)  21 NOV 2023 08:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -211,55 +211,48 @@ File: l3backend-pdfmode.def 2020-02-03 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count180
 \l__pdf_internal_box=\box48
 )
-(./report.aux
-
-LaTeX Warning: Label `tab:merged_cells_table' multiply defined.
-
-
-LaTeX Warning: Label `fig:your_image' multiply defined.
-
-)
+(./report.aux)
 \openout1 = `report.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 18.
+LaTeX Font Info:    Checking defaults for OML/txmi/m/it on input line 19.
 LaTeX Font Info:    Trying to load font information for OML+txmi on input line 
-18.
+19.
  (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omltxmi.fd
 File: omltxmi.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMS/txsy/m/n on input line 19.
 LaTeX Font Info:    Trying to load font information for OMS+txsy on input line 
-18.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omstxsy.fd
 File: omstxsy.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 19.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for OMX/txex/m/n on input line 19.
 LaTeX Font Info:    Trying to load font information for OMX+txex on input line 
-18.
+19.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/omxtxex.fd
 File: omxtxex.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
+LaTeX Font Info:    Checking defaults for U/txexa/m/n on input line 19.
 LaTeX Font Info:    Trying to load font information for U+txexa on input line 1
-8.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxexa.fd
 File: utxexa.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    ... okay on input line 19.
 LaTeX Font Info:    Trying to load font information for OT1+txr on input line 1
-8.
+9.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
@@ -326,113 +319,112 @@ File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
 <assets/images/banm.png, id=1, 230.36063pt x 48.18pt>
 File: assets/images/banm.png Graphic file (type png)
 <use assets/images/banm.png>
-Package pdftex.def Info: assets/images/banm.png  used on input line 25.
+Package pdftex.def Info: assets/images/banm.png  used on input line 26.
 (pdftex.def)             Requested size: 249.693pt x 52.22327pt.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14> not available
-(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 33.
+(Font)              Font shape `OT1/txr/bx/n' tried instead on input line 34.
+ [1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/images/banm.png>]
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <12> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `OT1/txr/b/n' in size <14.4> not available
 (Font)              Font shape `OT1/txr/bx/n' tried instead on input line 52.
+ (./report.toc)
+\tf@toc=\write3
+\openout3 = `report.toc'.
 
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+[2]
+Underfull \hbox (badness 10000) in paragraph at lines 59--61
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--62
+Underfull \hbox (badness 10000) in paragraph at lines 62--64
 
  []
 
 (/usr/share/texlive/texmf-dist/tex/latex/ucs/data/uni-32.def
 File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
 )
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 63--66
+Underfull \hbox (badness 10000) in paragraph at lines 65--68
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 72--74
-
- []
-
-[1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} <./assets/images/banm.png>]
-
-Underfull \hbox (badness 10000) in paragraph at lines 75--77
+Underfull \hbox (badness 10000) in paragraph at lines 74--76
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
+Underfull \hbox (badness 10000) in paragraph at lines 77--79
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 78--81
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 89--91
+Underfull \hbox (badness 10000) in paragraph at lines 80--83
+
+ []
+
+[3]
+Underfull \hbox (badness 10000) in paragraph at lines 91--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 92--94
+Underfull \hbox (badness 10000) in paragraph at lines 94--96
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--97
+Underfull \hbox (badness 10000) in paragraph at lines 97--99
 
  []
 
-<assets/images/table.png, id=11, 469.755pt x 167.87718pt>
+<assets/images/table.png, id=18, 469.755pt x 167.87718pt>
 File: assets/images/table.png Graphic file (type png)
 <use assets/images/table.png>
-Package pdftex.def Info: assets/images/table.png  used on input line 106.
+Package pdftex.def Info: assets/images/table.png  used on input line 108.
 (pdftex.def)             Requested size: 349.56866pt x 124.92648pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 114--116
-
- []
-
-[2]
-Underfull \hbox (badness 10000) in paragraph at lines 117--119
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 125--127
+Underfull \hbox (badness 10000) in paragraph at lines 119--121
+
+ []
+
+[4 <./assets/images/table.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 127--129
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 128--130
+Underfull \hbox (badness 10000) in paragraph at lines 130--132
 
  []
 
-<assets/images/pressure_reduction_station.png, id=16, 346.29375pt x 156.585pt>
+<assets/images/pressure_reduction_station.png, id=24, 346.29375pt x 156.585pt>
 File: assets/images/pressure_reduction_station.png Graphic file (type png)
 <use assets/images/pressure_reduction_station.png>
 Package pdftex.def Info: assets/images/pressure_reduction_station.png  used on 
-input line 140.
+input line 142.
 (pdftex.def)             Requested size: 349.56866pt x 158.07074pt.
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 147--149
+Underfull \hbox (badness 10000) in paragraph at lines 149--151
 
  []
 
@@ -440,44 +432,44 @@ Underfull \hbox (badness 10000) in paragraph at lines 147--149
 File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
 )
 LaTeX Font Info:    Trying to load font information for TS1+txr on input line 1
-57.
+59.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/ts1txr.fd
 File: ts1txr.fd 2000/12/15 v3.1
 )
-Underfull \hbox (badness 10000) in paragraph at lines 157--159
+Underfull \hbox (badness 10000) in paragraph at lines 159--161
 
  []
 
-[3 <./assets/images/table.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 160--162
+[5 <./assets/images/pressure_reduction_station.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 162--164
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--165
+Underfull \hbox (badness 10000) in paragraph at lines 165--167
 
  []
 
 LaTeX Font Info:    Trying to load font information for U+txmia on input line 1
-70.
+72.
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsya on input line 1
-70.
+72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyb on input line 1
-70.
+72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
 LaTeX Font Info:    Trying to load font information for U+txsyc on input line 1
-70.
+72.
 
 (/usr/share/texlive/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
@@ -486,109 +478,114 @@ File: utxsyc.fd 2000/12/15 v3.1
 File: uni-3.def 2013/05/13 UCS: Unicode data U+0300..U+03FF
 )
 LaTeX Font Info:    Font shape `TS1/txr/b/n' in size <12> not available
-(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 194.
+(Font)              Font shape `TS1/txr/bx/n' tried instead on input line 196.
 
-Overfull \hbox (39.57016pt too wide) in paragraph at lines 170--200
+Overfull \hbox (39.57016pt too wide) in paragraph at lines 172--202
 [][] 
  []
 
-[4 <./assets/images/pressure_reduction_station.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 297--299
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 299--301
 
  []
 
-<assets/images/pipeline_route.jpg, id=27, 469.755pt x 224.33812pt>
+<assets/images/pipeline_route.jpg, id=29, 469.755pt x 224.33812pt>
 File: assets/images/pipeline_route.jpg Graphic file (type jpg)
 <use assets/images/pipeline_route.jpg>
 Package pdftex.def Info: assets/images/pipeline_route.jpg  used on input line 3
-06.
+08.
 (pdftex.def)             Requested size: 349.56866pt x 166.94211pt.
-[5]
-Underfull \hbox (badness 10000) in paragraph at lines 315--317
+[6]
+Overfull \vbox (14.24599pt too high) has occurred while \output is active []
+
+
+[7 <./assets/images/pipeline_route.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 317--319
 
  []
 
-<assets/images/some_pipe_stuff.jpg, id=33, 469.755pt x 132.495pt>
+<assets/images/some_pipe_stuff.jpg, id=40, 469.755pt x 132.495pt>
 File: assets/images/some_pipe_stuff.jpg Graphic file (type jpg)
 <use assets/images/some_pipe_stuff.jpg>
 Package pdftex.def Info: assets/images/some_pipe_stuff.jpg  used on input line 
-322.
+324.
 (pdftex.def)             Requested size: 349.56866pt x 98.59668pt.
-<assets/images/inlet.jpg, id=34, 380.17032pt x 226.59656pt>
+<assets/images/inlet.jpg, id=41, 380.17032pt x 226.59656pt>
 File: assets/images/inlet.jpg Graphic file (type jpg)
 <use assets/images/inlet.jpg>
-Package pdftex.def Info: assets/images/inlet.jpg  used on input line 327.
+Package pdftex.def Info: assets/images/inlet.jpg  used on input line 329.
 (pdftex.def)             Requested size: 349.56866pt x 208.3607pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 334--336
+Underfull \hbox (badness 10000) in paragraph at lines 336--338
 
  []
 
-[6 <./assets/images/pipeline_route.jpg> <./assets/images/some_pipe_stuff.jpg> <
-./assets/images/inlet.jpg>]
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []\OT1/txr/m/n/12 Length of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 \OT1/txr/m/n/12 pipeline,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []\OT1/txr/m/n/12 Pressure
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 10000) in paragraph at lines 346--346
 []\OT1/txr/m/n/12 Power of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 []\OT1/txr/m/n/12 Pump
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--345
+Underfull \hbox (badness 10000) in paragraph at lines 346--347
 \OT1/txr/m/n/12 Sta-tion
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 372--374
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 375--377
+[8 <./assets/images/some_pipe_stuff.jpg> <./assets/images/inlet.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 374--376
 
  []
 
-[7] [8] (./report.aux)
 
-LaTeX Warning: There were multiply-defined labels.
+Underfull \hbox (badness 10000) in paragraph at lines 377--379
 
- ) 
+ []
+
+[9] [10] (./report.aux) ) 
 Here is how much of TeX's memory you used:
- 5177 strings out of 483183
- 66190 string characters out of 5966291
- 307443 words of memory out of 5000000
- 20116 multiletter control sequences out of 15000+600000
+ 5182 strings out of 483183
+ 66222 string characters out of 5966291
+ 312389 words of memory out of 5000000
+ 20118 multiletter control sequences out of 15000+600000
  554542 words of font info for 76 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  30i,11n,37p,1236b,591s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
-e/texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/share/texlive/texmf-dis
-t/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texlive/texmf-dist/fonts/typ
-e1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/tx
-fonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb>
-</usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/tex
-live/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on report.pdf (8 pages, 341491 bytes).
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r
+.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/txfonts/rtcxb.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/txfonts/rtxmi.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/txfonts/rtxr.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/txfonts/txsy.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/urw/times/utmb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utm
+r8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on report.pdf (10 pages, 342983 bytes).
 PDF statistics:
- 70 PDF objects out of 1000 (max. 8388607)
- 43 compressed objects within 1 object stream
+ 76 PDF objects out of 1000 (max. 8388607)
+ 47 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  31 words of extra memory for PDF output out of 10000 (max. 10000000)
 
